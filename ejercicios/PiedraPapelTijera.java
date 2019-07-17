@@ -177,15 +177,15 @@ public class PiedraPapelTijera {
 				}
 				break;
 			case 2:
-				System.out.println("La piedra aplasta la tijera. (Gana la piedra.");
-                System.out.println("La tijera corta el papel. (Gana la tijera.)");
-                System.out.println("El papel envuelve la piedra. (Gana el papel.)");
+				System.out.println("La piedra aplasta la tijera. (Gana la piedra.)");
+                                System.out.println("La tijera corta el papel. (Gana la tijera.)");
+                                System.out.println("El papel envuelve la piedra. (Gana el papel.)");
     			System.out.println("");
     			System.out.println("");
 
 				break;
 			case 3:
-				System.out.println("Salir");
+				System.out.println("Saliendo");
 				System.exit(0);
 			}
 		}
